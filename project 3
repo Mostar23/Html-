@@ -1,0 +1,71 @@
+<html class="background" style="background-color:yellow">
+  <h4 class="Survey_title">Survey Form</h4>
+  <h3>Name:</h3>
+  <input name="name" placeholder="Enter your name">
+  <h3>Age:</h3>
+  <input name:"age" placeholder="Enter your age">
+  <h3>What option describes you best ?</h3>
+  <select name="options" id="a">
+    <option value="student">Student</option>
+    <option value="Teacher">Teacher</option>
+    <option value="Enterpanuer">Enterpanuer</option>
+  </select>
+  
+  <h4>Would you recommend geeksforgeeks for a friend ?</h4>
+  <label value="a">Yes</label>
+  <input type="radio" id="firstcheckbox" name="a" value="yes">
+  <br>
+  <label value="no">No</label>
+  <input type="radio"  id="secondcheckbox" name="a" value="no">
+  <h4>What languages and framework do you know ?</h4>
+  <label>JavaScript</label>
+  <input type="checkbox" id="firstcheckbox">
+  <br>
+  <label>Python</label>
+  <input type="checkbox">
+  <br>
+  <label>Java</label>
+  <input type="checkbox">
+  <br>
+  <label>Ruby</label>
+  <input type="checkbox">
+  <br>
+  <label>React Native</label>
+  <input type="checkbox">
+  <br>
+  <label>NodeJS</label>
+  <input type="checkbox">
+  <br>
+  <label>Angular JS</label>
+  <input type="checkbox">
+  <br>
+  <h4>Any Comments or suggestions</h4>
+  <textarea id="textbox">
+  
+  
+ </html>
+ 
+ 
+ 
+ .background{
+  background-color:"brown";
+  
+}
+
+.Survey_title{
+  font-size: 30px;
+  position:relative;
+  text-align:center;
+  background-color:brown;
+  
+}
+
+.textbox{
+  
+}
+
+
+
+
+
+
