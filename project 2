@@ -1,0 +1,135 @@
+<html>
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+<link rel="stylesheet" href="https://www.w3schools.com/w3css/4/w3.css">
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
+  
+  
+  <img src="https://upload.wikimedia.org/wikipedia/commons/5/56/Argos_logo.svg" class="logo"/>
+ <button class="btn"><i class="fa fa-home"></i> Home</button>
+  <button class="btn"><i class="fa fa-home"></i>Help</button>
+<div class="searchbar">
+  <input type="text" placeholder="searchbar"/>
+  <button>search</button>
+  
+</div>
+ 
+ <section>
+  <button class="Top sale">Top Sale</button>
+   <button class="children">children</button>
+   <button class="Adult">Adult</button>
+   <button class="Books">Books</button>
+</section>
+  
+ <section>
+   <img src="https://upload.wikimedia.org/wikipedia/commons/7/76/Argos_Extra_-_geograph.org.uk_-_973872.jpg" class="image1"/>
+   <img src="https://upload.wikimedia.org/wikipedia/commons/5/56/Argos_logo.svg" class="image2"/>
+   <img src="https://upload.wikimedia.org/wikipedia/commons/5/56/Argos_logo.svg" class="image3">
+   <span  class="comment">best stuff here</span>
+   <img src="https://upload.wikimedia.org/wikipedia/commons/5/56/Argos_logo.svg" class="image4">
+   
+   
+ </section>
+  
+ <section>
+   <input type="text" placeholder="Questions" class="questioninput"/>
+   <button class="buttonq">search</button>
+  </section>
+</html>
+
+
+
+.logo{
+  width:100px;
+  
+}
+
+.btn{
+  cursor:pointer;
+  position:relative;
+  left:800px;
+  top:-10px;
+  left:400px
+  
+}
+
+.searchbar{
+  position:relative;
+  left:300px;
+}
+
+.image1{
+  width:200px;
+  position:relative;
+  top:100px;
+  cursor:pointer;
+  
+  
+  
+}
+
+.image2{
+  position:relative;
+  left:90px;
+  width:200px;
+  top:90px;
+  
+  
+}
+
+.image3{
+  position:relative;
+  width:200px;
+  top:300px;
+  left:-400px;
+  
+  
+  
+}
+
+.image4{
+  position:relative;
+  width:200px;
+  top:170px;
+  left:300px;
+  
+  }
+
+.questioninput{
+  position:relative;
+  top:250px;
+  left:200px;
+  padding:5px;
+  
+}
+
+.buttonq{
+  position:relative;
+  top:250px;
+  left:200px;
+  padding:10px
+  
+}
+
+.comment{
+  position:relative;
+  top:210px;
+  left:-420px
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
