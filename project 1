@@ -1,0 +1,302 @@
+<html id="background">
+  <h1 class="firstword">Quick -</h1>
+  <h1 class="secondword" id="second">Munch</h1>
+  
+
+ <i class='fas fa-phone'></i>
+ 
+ <section class="background2">
+  <input name="seacrbar" id="name">
+   <button>Search</button>
+  <h1 id="title">Your choice !!!</h1>
+  </section>
+ 
+  <section class="hover1">
+    <div>
+      <img src="https://upload.wikimedia.org/wikipedia/commons/8/86/Grandma-pizza-01.jpg" class="firstimage" id="m">
+    </div>
+  </section>
+  
+<section id="background3">  <img="https://upload.wikimedia.org/wikipedia/commons/f/ff/Fish_and_chips_blackpool.jpg" class="firstimage2" id="firstimage2" />
+  <button class="buttonone" id="firstbutton">Pizza</button>
+ 
+</section>
+  
+<section id="background4">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/8/83/French_Fries.JPG"
+       class="secondimage" id="secondimage2"/>
+  <button id="secondbutton">Chips</button>
+         
+</section>
+  
+  
+<section id="background5">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/b/ba/Lasagne_-_stonesoup.jpg" class="thirdimage"/>
+  <button class="lasenga">Lasenga</button>
+  </section>
+  
+  <section id="background6">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/8/89/Chicken_wings_at_Hesburger.jpg" class="fourthimg"/>
+    <button class="wings">Wings</button>
+</section>
+  
+<section id="background7">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/2/2e/Ice_cream_with_whipped_cream%2C_chocolate_syrup%2C_and_a_wafer_%28cropped%29.jpg"
+class="icecream"/>
+  <button class="icecream2">Ice Cream</button>
+</section>
+  
+ <section id="background8">
+   <img src="https://upload.wikimedia.org/wikipedia/commons/5/5b/Waffles_with_Strawberries.jpg" class="waffles"/>
+   <button class="wafflez">Waffles</button>
+</section>
+
+<section id="background9">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/1/10/Candy_in_Damascus.jpg" class="candy"/>
+  <button class="candybutton">Candy</button>
+</section>
+
+<section id="background10">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/0/0d/Lody_marki_Starbucks.jpg" class="starbucks"/>
+  <button class="starbuckz">Starbucks</buutyon>
+  
+</section>
+
+  
+</html>
+
+
+
+.firstword{
+  position:relative;
+  left:350px;
+  font-size:40px;
+  background-color:blue;
+  width:260px;
+  color:yellow
+}
+
+.secondword{
+  position:relative;
+  left:500px;
+  margin-bottom:40px;
+  color:green;
+}
+
+#second{
+  margin-top:-70px;
+  margin-left:-10px;
+  font-size:40px;
+  
+ 
+}
+
+#background{
+ background-color:brown;
+}
+
+#title{
+ position:relative;
+ left:380px;
+ color:#DAA520;
+ font-size:40px;
+  
+ 
+   
+}
+
+.background2{
+  background-color:purple;
+  padding-bottom:500px;
+  padding-top:10px
+}
+
+#name{
+ margin-left:390px;
+}
+
+.firstimage{
+  width:100px;
+  
+}
+
+#m{
+  position:relative;
+  top:-500px
+}
+
+
+.firstimage{
+  position: relative;
+  top:-600px;
+  left:10px;
+  
+}
+
+.buttoone{
+  height:90px;
+  width:20px;
+  margin-left:
+  
+  
+  
+}
+
+#firstbutton{
+  height:40px;
+  width:100px;
+  position:relative;
+  top:-490px;
+  left:10px;
+  
+}
+
+
+.secondimage{
+  width:100px;
+  position:relative;
+  left:230px;
+  top:-610px;
+  
+}
+
+
+#secondbutton{
+  position:relative;
+  left:129px;
+  top:-570px;
+  padding:10px;
+  width:100px
+  
+}
+
+.thirdimage{
+  width:100px;
+  position:relative;
+  left:430px;
+  top:-710px;
+  height:90px
+  
+}
+
+.lasenga{
+  padding:15px;
+  position:relative;
+  left:340px;
+  top:-660px;
+  
+  
+}
+
+.fourthimg{
+  width:100px;
+  position:relative;
+  right:-650px;
+  top:-800px;
+  
+ }
+
+
+.wings{
+  padding:15px;
+  position:relative;
+  left:570px;
+  top:-750px;
+}
+
+
+.icecream{
+  width:100px;
+  position:relative;
+  top:-610px;
+  
+}
+
+
+.icecream2{
+  padding:20px;
+  position:relative;
+  top:-560px;
+  left:-102px;
+  
+}
+
+.waffles{
+  width:100px;
+  position:relative;
+  left:200px;
+  top:-720px;
+  
+}
+
+.wafflez{
+  padding:15px;
+  position:relative;
+  left:100px;
+  top:-650px
+}
+
+.candy{
+  width:100px;
+  position:relative;
+  left:400px;
+  top:-800px
+}
+
+
+.candybutton{
+  padding:20px;
+  position:relative;
+  left:310px;
+  top:-740px;
+  
+ }
+
+
+.starbucks{
+  width:200px;
+  position:relative;
+  left:600px;
+  top:-920px;
+  
+ }
+
+
+.starbuckz{
+  padding:15px;
+  position:relative;
+  left:470px;
+  top:-870px;
+  
+ }
+
+#background3{
+  background-color:brown;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
